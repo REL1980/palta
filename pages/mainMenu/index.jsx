@@ -6,6 +6,7 @@ const index = () => {
     <>
      <div>Menu interesante</div>
      <div>REL</div>
+     <div>REL2</div>
     </>
     
   );
